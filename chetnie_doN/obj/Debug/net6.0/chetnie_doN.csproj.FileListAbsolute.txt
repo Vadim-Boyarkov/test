@@ -1,0 +1,15 @@
+D:\Вадим учеба\тест\chetnie_doN\bin\Debug\net6.0\chetnie_doN.exe
+D:\Вадим учеба\тест\chetnie_doN\bin\Debug\net6.0\chetnie_doN.deps.json
+D:\Вадим учеба\тест\chetnie_doN\bin\Debug\net6.0\chetnie_doN.runtimeconfig.json
+D:\Вадим учеба\тест\chetnie_doN\bin\Debug\net6.0\chetnie_doN.dll
+D:\Вадим учеба\тест\chetnie_doN\bin\Debug\net6.0\chetnie_doN.pdb
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.csproj.AssemblyReference.cache
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.AssemblyInfoInputs.cache
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.AssemblyInfo.cs
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.csproj.CoreCompileInputs.cache
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.dll
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\refint\chetnie_doN.dll
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.pdb
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\chetnie_doN.genruntimeconfig.cache
+D:\Вадим учеба\тест\chetnie_doN\obj\Debug\net6.0\ref\chetnie_doN.dll
